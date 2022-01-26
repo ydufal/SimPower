@@ -1,2 +1,1 @@
-# SimPower
-One of my Java Projects
+# Here is my code of the Game
